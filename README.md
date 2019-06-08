@@ -1,3 +1,3 @@
 # Check-Available-Domains
 
-## will update this section in sometime
+will update this section in sometime
